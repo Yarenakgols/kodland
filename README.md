@@ -1,12 +1,1 @@
-Mevcut sınav konuları:
-Python'da AI geliştirme
-Bilgisayar görüşü
-NLP (Nöro-dilbilim)
-Python uygulamalarında AI modelleri uygulama
-
-Sonuç değerlendirme kriterleri:
-Web sitesi, hedef kitleyle ilgili önerilen konular arasından bir sınava sahip olmalı
-Web sitesinin alt bilgisinde yazar hakkında bilgi bulunmalı
-Sınav birkaç sorudan oluşmalı
-Web sitesi PythonAnywhere.com'da yayınlanmalı
-Veri tabanı kullanılmalı
+Projemde, sınav konuları olarak Python'da AI geliştirme, bilgisayar görüşü, NLP (Nöro-dilbilim) ve Python uygulamalarında AI modelleri uygulama yer aldı. Bu konular, yapay zeka ve bilgisayarla etkileşimli alanlarda derinlemesine bilgi sunmayı amaçladı. Projede belirlediğim sonuç değerlendirme kriterlerine de sadık kalındı. Web sitesinde hedef kitleye yönelik bir sınav yer aldı ve sınav soruları birkaç maddeden oluştu. Ayrıca, web sitesinin alt bilgisinde yazar hakkında bilgi bulunması sağlandı. Projeyi PythonAnywhere.com üzerinde yayınladım ve bir veri tabanı kullanarak verilerin doğru şekilde depolanmasını sağladım. Bu şekilde proje, tüm gereksinimleri yerine getirerek başarıyla tamamlandı.
